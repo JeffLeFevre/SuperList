@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperList.WPF", "SuperList\SuperList.WPF.csproj", "{5C2E5119-9B5F-4E8E-9114-3680674E25E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperList.Models", "SuperList.Model\SuperList.Models.csproj", "{ACE4D7B0-56EB-45DD-91A6-A151F3CB07BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperList.ViewModels", "SuperList.ViewModels\SuperList.ViewModels.csproj", "{9D157CA1-7117-4E3B-9835-A9D263B5E1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2E5119-9B5F-4E8E-9114-3680674E25E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2E5119-9B5F-4E8E-9114-3680674E25E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2E5119-9B5F-4E8E-9114-3680674E25E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2E5119-9B5F-4E8E-9114-3680674E25E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE4D7B0-56EB-45DD-91A6-A151F3CB07BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE4D7B0-56EB-45DD-91A6-A151F3CB07BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE4D7B0-56EB-45DD-91A6-A151F3CB07BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE4D7B0-56EB-45DD-91A6-A151F3CB07BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D157CA1-7117-4E3B-9835-A9D263B5E1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D157CA1-7117-4E3B-9835-A9D263B5E1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D157CA1-7117-4E3B-9835-A9D263B5E1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D157CA1-7117-4E3B-9835-A9D263B5E1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

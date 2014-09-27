@@ -1,0 +1,14 @@
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.ViewModels.dll
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.ViewModels.pdb
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.Model.dll
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.Model.pdb
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.ViewModels\obj\Debug\SuperList.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.ViewModels\obj\Debug\SuperList.ViewModels.dll
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.ViewModels\obj\Debug\SuperList.ViewModels.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.ViewModels.dll
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.ViewModels.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.Model.dll
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.ViewModels\bin\Debug\SuperList.Model.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.ViewModels\obj\Debug\SuperList.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.ViewModels\obj\Debug\SuperList.ViewModels.dll
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.ViewModels\obj\Debug\SuperList.ViewModels.pdb

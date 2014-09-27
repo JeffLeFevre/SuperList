@@ -1,0 +1,10 @@
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.Model\bin\Debug\SuperList.Model.dll
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.Model\bin\Debug\SuperList.Model.pdb
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.Model\obj\Debug\SuperList.Models.csprojResolveAssemblyReference.cache
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.Model\obj\Debug\SuperList.Model.dll
+C:\Users\Jlefevre\documents\visual studio 2012\Projects\SuperList\SuperList.Model\obj\Debug\SuperList.Model.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.Model\bin\Debug\SuperList.Model.dll
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.Model\bin\Debug\SuperList.Model.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.Model\obj\Debug\SuperList.Model.dll
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.Model\obj\Debug\SuperList.Model.pdb
+C:\Users\Jeff\Documents\Visual Studio 2013\Projects\SuperList\SuperList.Model\obj\Debug\SuperList.Models.csprojResolveAssemblyReference.cache
